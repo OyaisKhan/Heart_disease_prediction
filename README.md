@@ -24,6 +24,6 @@ Outcome: Random Forest achieved ~95% accuracy; your contribution includes extend
 
 🚀 Repository Structure
 
-├── heart.csv
-├── Heart_disease_prediction.ipynb   # Jupyter notebook with EDA & model training
-└── README.md
+    ├── heart.csv
+    ├── Heart_disease_prediction.ipynb   # Jupyter notebook with EDA & model training
+    └── README.md
